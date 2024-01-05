@@ -1,0 +1,1 @@
+/home/mahdi/mrc_icra_ws/devel/.private/catkin_tools_prebuild/local_setup.bash

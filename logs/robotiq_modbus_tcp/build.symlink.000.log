@@ -1,0 +1,4 @@
+Symlinking /home/mahdi/mrc_icra_ws/devel/lib/python2.7/dist-packages/robotiq_modbus_tcp/__init__.py
+Symlinking /home/mahdi/mrc_icra_ws/devel/lib/pkgconfig/robotiq_modbus_tcp.pc
+Symlinking /home/mahdi/mrc_icra_ws/devel/share/robotiq_modbus_tcp/cmake/robotiq_modbus_tcpConfig-version.cmake
+Symlinking /home/mahdi/mrc_icra_ws/devel/share/robotiq_modbus_tcp/cmake/robotiq_modbus_tcpConfig.cmake

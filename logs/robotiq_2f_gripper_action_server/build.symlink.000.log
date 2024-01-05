@@ -1,0 +1,5 @@
+Symlinking /home/mahdi/mrc_icra_ws/devel/lib/pkgconfig/robotiq_2f_gripper_action_server.pc
+Symlinking /home/mahdi/mrc_icra_ws/devel/lib/robotiq_2f_gripper_action_server/robotiq_2f_gripper_action_server_node
+Symlinking /home/mahdi/mrc_icra_ws/devel/lib/robotiq_2f_gripper_action_server/robotiq_2f_gripper_action_server_client_test
+Symlinking /home/mahdi/mrc_icra_ws/devel/share/robotiq_2f_gripper_action_server/cmake/robotiq_2f_gripper_action_serverConfig.cmake
+Symlinking /home/mahdi/mrc_icra_ws/devel/share/robotiq_2f_gripper_action_server/cmake/robotiq_2f_gripper_action_serverConfig-version.cmake

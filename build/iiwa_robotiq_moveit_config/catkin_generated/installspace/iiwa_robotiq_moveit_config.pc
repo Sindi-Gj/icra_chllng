@@ -1,0 +1,8 @@
+prefix=/home/mahdi/mrc_icra_ws/install
+
+Name: iiwa_robotiq_moveit_config
+Description: Description of iiwa_robotiq_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

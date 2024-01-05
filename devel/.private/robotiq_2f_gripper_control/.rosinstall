@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mahdi/mrc_icra_ws/devel/.private/robotiq_2f_gripper_control/setup.sh

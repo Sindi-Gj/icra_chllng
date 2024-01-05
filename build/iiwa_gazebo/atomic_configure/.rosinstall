@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mahdi/mrc_icra_ws/devel/.private/iiwa_gazebo/setup.sh

@@ -1,0 +1,6 @@
+devel_space: /home/mahdi/mrc_icra_ws/devel
+install: false
+install_space: /home/mahdi/mrc_icra_ws/install
+profile: default
+source_space: /home/mahdi/mrc_icra_ws/src
+workspace: /home/mahdi/mrc_icra_ws
